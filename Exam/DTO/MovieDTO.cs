@@ -6,7 +6,7 @@ using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace Exam.DTO
-{
+{  
     public class MovieDTO
     {
         [JsonPropertyName("id")]
